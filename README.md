@@ -1,1 +1,1 @@
-# GPT-Slim
+# GPT-Slim : MIT Licence
